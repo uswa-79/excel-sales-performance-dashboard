@@ -2,6 +2,9 @@
 An interactive Sales Performance Dashboard built in Microsoft Excel using Pivot Tables, charts, KPIs, and data analysis.
 
 # Sales Performance Dashboard
+## Dashboard Preview
+
+![Sales Dashboard](dashboard-overview.png)
 
 ## Overview
 This project is an interactive Sales Performance Dashboard created in Microsoft Excel to analyze sales performance and present key business insights in a clear and visual format.
